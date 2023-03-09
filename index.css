@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(73, 131, 83);
+    color: antiquewhite;
+}
+
+.title {
+    color: rgb(73, 131, 83);
+    background-color: antiquewhite;
+    font-family: "Arima Madurai";
+    font-size: 500%;
+    border-radius: 20px;
+    text-indent: 9%;
+    padding: 20px;
+}
+.post {
+    font-family: "Arima Madurai";
+    margin-left: 5%;
+    font-size: 100%;
+    width: 30%;
+}
+.user {
+    font-family: "Arima Madurai";
+    font-size: 150%;
+    font-weight: bold;
+}
+.body {
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    padding: 10px;
+    border-radius: 20px;
+}
+.game {
+    font-family: "Arima Madurai";
+    font-size: 80%;
+    text-align: right;
+}
+.navButtons {
+    margin-top: 0%;
+    margin-left: 2%;
+    position: absolute;
+}
+#home {
+    font-family: "Arima Madurai";
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    height: 50%;
+    border: none;
+    border-radius: 20px;
+}
+#login {
+    font-family: "Arima Madurai";
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    height: 50%;
+    border: none;
+    border-radius: 20px;
+}
+#gameButton {
+    font-family: "Arima Madurai";
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    height: 50%;
+    border: none;
+    border-radius: 20px;
+}
+#toPost {
+    position: absolute;
+    font-size: 16px;
+    margin-left: 5%;
+    width: 50%;
+    height: 9%;
+    color: antiquewhite;
+    background-color:rgb(73, 131, 83);
+    word-wrap: break-word;
+    resize: none;
+    border: none;
+    border-radius: 20px;
+    text-indent: 2%;
+}
+.editButton {
+    font-family: "Arima Madurai";
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    height: 2%;
+    width: 4%;
+    margin-left: 20%;
+    margin-top: 1%;
+    border-radius: 20px;
+    position: absolute;
+    display: none;
+    border: none;
+    border-radius: 20px;
+}
+.deleteButton {
+    font-family: "Arima Madurai";
+    background-color: antiquewhite;
+    color: rgb(73, 131, 83);
+    height: 2%;
+    width: 5%;
+    margin-left: 25%;
+    margin-top: 1%;
+    border-radius: 20px;
+    position: absolute;
+    display: none;
+    border: none;
+    border-radius: 20px;
+}

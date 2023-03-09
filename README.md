@@ -1,2 +1,2 @@
 # goodgames
-A video game review website
+A video game social media hub
