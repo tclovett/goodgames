@@ -206,5 +206,8 @@ function generateFeed(){
 
 window.addEventListener('load', function() {
   generateFeed();
+  $("#home").on("click", function(){
+    location.reload();
+  })
 })
 
